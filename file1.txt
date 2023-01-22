@@ -1,0 +1,2 @@
+Edited file1.txt through master
+Conflict will occur!!
